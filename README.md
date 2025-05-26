@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sengupta0603/sengupta0603/blob/main/Priyanka.Sengupta_558.jpg" alt="Priyanka Sengupta" width="450"/>
+  <img src="https://github.com/sengupta0603/sengupta0603/blob/main/Priyanka.Sengupta_558.jpg" alt="Priyanka Sengupta" width="350"/>
 </p>
 
 <h1 align="center">Priyanka Sengupta</h1>
@@ -7,7 +7,7 @@
   <i>Marketing & Growth Data Analyst | Lifecycle Strategy | Revenue Optimization | AI-Powered Dashboards</i><br>
   <a href="https://www.linkedin.com/in/pdsengupta/">LinkedIn</a> •
   <a href="https://github.com/sengupta0603">GitHub</a> •
-  <a href="mailto:sengupta0603@gmail.com">Email</a>
+  <a href="mailto:sengupta0603@gmail.com">sengupta0603@gmail.com</a>
 </p>
 
 
