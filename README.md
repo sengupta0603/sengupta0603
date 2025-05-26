@@ -29,10 +29,10 @@ Ready to turn your growth questions into revenue answers? Let's connect.
 
 ### 🛠 Skills
 
-| **Data & Analytics**     | **Marketing & Growth**        | **Visualization**         | **Cloud & Tools**                | **Collaboration & PM**        |
-|--------------------------|-------------------------------|---------------------------|-----------------------------------|-------------------------------|
-| SQL, Python              | Go-to-Market Strategy         | Power BI, Tableau         | AWS (S3, Redshift, Glue)          | Stakeholder Collaboration     |
-| Regression Analysis      | Campaign Analytics            | QuickSight, Excel         | Airflow, API Integration          | Jira, Asana                   |
+| **Data & Analytics**     | **Marketing & Growth**        | **Visualization**         | **Cloud & Tools**                 | **Collaboration & PM**        |
+|--------------------------|-------------------------------|---------------------------|---------------------------------- |-------------------------------|
+| SQL, Python              | Go-to-Market Strategy         | Power BI, Tableau         | AWS (S3, Redshift, Glue)          | Stakeholder Collaboration,    |
+| Regression Analysis      | Campaign Analytics            | QuickSight, Excel         | Airflow, API Integration          |  Jira, Asana, Agile,          |
 | Funnel & Churn Modeling  | Lifecycle & Retention         | Ad Hoc KPI Reporting      |                                   |                               |
 | Segmentation, A/B Testing| ROI, LTV & CAC                | Stakeholder Reporting     |                                   |                               |
 
@@ -86,11 +86,11 @@ Analyzed learner funnels and ad channels to improve conversion and retention; re
 Shaped GTM strategy and built Power BI reporting for Mem0’s AI product adoption; identified healthcare as the lead vertical, increasing qualified leads by 32%.
 
 #### McDonald’s – Sales & Promo Performance Analytics  
-*Capgemini | Mumbai | Jul 2019 – Jul 2023*  
+*Capgemini (client: McDonald's)| Mumbai | Jul 2019 – Jul 2023*  
 Modeled national offer uplift and cannibalization across 40+ campaigns, driving $3.2M in value via budget optimization. Built Power BI dashboards to surface promo pacing and ROAS.
 
 #### Meijer – Inventory & Vendor Scorecard Insights  
-*Capgemini | Mumbai*  
+*Capgemini (client: Meijer) | Mumbai*  
 Automated vendor performance pipelines using AWS Glue and Airflow; improved fulfillment response times and enabled promo alignment through real-time QuickSight dashboards.
 
 ---
